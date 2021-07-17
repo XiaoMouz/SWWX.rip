@@ -1,4 +1,4 @@
-$(document).ready(function() {  
+$(function() {  
   setTimeout(function() {
     $('h1').addClass('zoom');
     $('h1 .initial').addClass('transInStart');
