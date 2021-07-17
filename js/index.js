@@ -1,5 +1,4 @@
-$(function() {  
-  setTimeout(function() {
+    setTimeout(function() {
     $('h1').addClass('zoom');
     $('h1 .initial').addClass('transInStart');
     $('h1 .underlay').addClass('show');
@@ -49,4 +48,3 @@ $(function() {
     },4050);  
     
   }, 4000); 
-});
